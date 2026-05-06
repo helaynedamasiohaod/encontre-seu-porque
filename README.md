@@ -12,7 +12,7 @@ Para quem usa o [Claude Code](https://claude.ai/code).
 
 ### Como instalar
 
-1. Baixe o arquivo [`encontre-seu-porque.zip`](./encontre-seu-porque.zip)
+1. Baixe o arquivo [`encontre-seu-porque-claude.zip`](./encontre-seu-porque-claude.zip)
 2. No Claude Code, execute:
 
 ```
@@ -35,7 +35,7 @@ Para quem usa o ChatGPT (funciona em qualquer plano, incluindo gratuito).
 
 ### Como usar
 
-1. Acesse o arquivo [`chatgpt/prompt.md`](./chatgpt/prompt.md)
+1. Acesse o arquivo [`encontre-seu-porque-chatgpt/prompt.md`](./encontre-seu-porque-chatgpt/prompt.md)
 2. Copie o conteúdo dentro do bloco de código
 3. Cole como primeira mensagem em uma nova conversa no ChatGPT
 4. A experiência começa automaticamente

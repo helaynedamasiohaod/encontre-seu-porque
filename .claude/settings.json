@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm \"/Users/helaynedamasio/aiox-stage/projetos/encontre-seu-porquê/encontre-seu-porque/references/api_reference.md\" *)",
+      "Bash(python3 /Users/helaynedamasio/aiox-stage/skill-creator/scripts/package_skill.py \"/Users/helaynedamasio/aiox-stage/projetos/encontre-seu-porquê/encontre-seu-porque\" \"/Users/helaynedamasio/aiox-stage/projetos/encontre-seu-porquê/\")",
+      "Bash(gh auth *)",
+      "Bash(git init *)",
+      "Bash(git checkout *)",
+      "Bash(git commit -m ' *)",
+      "Bash(gh repo *)",
+      "Bash(python3 /Users/helaynedamasio/aiox-stage/skill-creator/scripts/package_skill.py \"/Users/helaynedamasio/aiox-stage/projetos/encontre-seu-porquê/encontre-seu-porque-claude\" \"/Users/helaynedamasio/aiox-stage/projetos/encontre-seu-porquê/\")"
+    ],
+    "additionalDirectories": [
+      "/Users/helaynedamasio/aiox-stage/projetos/encontre-seu-porquê/encontre-seu-porque/references"
+    ]
+  }
+}
