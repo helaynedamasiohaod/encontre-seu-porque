@@ -1,25 +1,16 @@
-# Encontre seu Porquê — Skill para Claude Code
+# Encontre seu Porquê
 
-Uma skill conversacional para o Claude Code que guia você na descoberta do seu "Porquê" pessoal, inspirada no livro **Encontre seu Porquê** de Simon Sinek.
+Ferramentas conversacionais para descoberta do "Porquê" pessoal, baseadas no livro **Encontre seu Porquê** de Simon Sinek, David Mead e Peter Docker.
 
-## O que é esta skill?
+Disponível em duas versões — escolha a que funciona melhor para você.
 
-Esta skill transforma o Claude em um parceiro reflexivo que conduz uma conversa profunda e progressiva em 5 fases:
+---
 
-1. **Construção de confiança** — criando segurança para a jornada
-2. **Exploração de histórias** — memórias, pessoas marcantes, momentos de realização
-3. **Aprofundamento emocional** — investigando emoções recorrentes
-4. **Identificação de padrões** — conectando temas ao longo das histórias
-5. **Construção do "Porquê"** — co-criando hipóteses de propósito
+## Versão 1 — Claude Code (skill)
 
-O objetivo não é entregar uma resposta pronta. É ajudar você a reconhecer padrões da sua própria vida.
+Para quem usa o [Claude Code](https://claude.ai/code).
 
-## Como instalar
-
-### Pré-requisito
-Ter o [Claude Code](https://claude.ai/code) instalado.
-
-### Instalação
+### Como instalar
 
 1. Baixe o arquivo [`encontre-seu-porque.zip`](./encontre-seu-porque.zip)
 2. No Claude Code, execute:
@@ -28,15 +19,28 @@ Ter o [Claude Code](https://claude.ai/code) instalado.
 /skill install encontre-seu-porque.zip
 ```
 
-## Como usar
-
-Após instalar, ative a skill digitando:
+### Como usar
 
 ```
 /encontre-seu-porque
 ```
 
-A experiência começa automaticamente. Não é necessário mais nenhuma instrução.
+A experiência começa automaticamente.
+
+---
+
+## Versão 2 — ChatGPT (prompt)
+
+Para quem usa o ChatGPT (funciona em qualquer plano, incluindo gratuito).
+
+### Como usar
+
+1. Acesse o arquivo [`chatgpt/prompt.md`](./chatgpt/prompt.md)
+2. Copie o conteúdo dentro do bloco de código
+3. Cole como primeira mensagem em uma nova conversa no ChatGPT
+4. A experiência começa automaticamente
+
+---
 
 ## Sobre o método
 
@@ -46,7 +50,11 @@ Baseado no Golden Circle de Simon Sinek:
 - **COMO** — seus valores e princípios orientadores
 - **O QUÊ** — seus resultados e ações concretas
 
-O "Porquê" emerge de padrões emocionais e narrativos — não de abstrações ou respostas rápidas.
+O "Porquê" não é inventado racionalmente. Ele emerge de histórias reais, emoções recorrentes e padrões de contribuição ao longo da vida.
+
+O formato preferencial do "Porquê":
+
+> "__________, de modo que __________."
 
 ---
 
