@@ -1,8 +1,17 @@
-# Encontre seu Porquê
+# Encontre Seu Porquê
 
-Ferramentas conversacionais para descoberta do "Porquê" pessoal, baseadas no livro **Encontre seu Porquê** de Simon Sinek, David Mead e Peter Docker.
+Ferramentas conversacionais inspiradas no método do livro **Encontre Seu Porquê** *(Find Your Why)*, de Simon Sinek, David Mead e Peter Docker, criadas para ajudar pessoas a identificar padrões de contribuição, realização e impacto humano através de histórias reais de vida.
 
-Disponível em duas versões — escolha a que funciona melhor para você.
+A proposta não é oferecer respostas prontas ou fórmulas motivacionais, mas conduzir uma investigação narrativa profunda, baseada em memórias significativas, emoções recorrentes e formas naturais de contribuição.
+
+O processo ajuda o usuário a:
+- revisitar experiências marcantes;
+- reconhecer padrões humanos recorrentes;
+- identificar valores e fontes de realização;
+- compreender como naturalmente impacta outras pessoas;
+- construir gradualmente uma hipótese do próprio "Porquê".
+
+Disponível em duas versões — escolha a experiência que faz mais sentido para você.
 
 ---
 
