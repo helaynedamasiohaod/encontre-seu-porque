@@ -44,17 +44,25 @@ Para quem usa o ChatGPT (funciona em qualquer plano, incluindo gratuito).
 
 ## Sobre o método
 
-Baseado no Golden Circle de Simon Sinek:
+Este agente é baseado no livro **Encontre Seu Porquê** *(Find Your Why)*, de Simon Sinek, David Mead e Peter Docker.
 
-- **PORQUÊ** — sua crença central, o que dá significado ao que você faz
-- **COMO** — seus valores e princípios orientadores
-- **O QUÊ** — seus resultados e ações concretas
+A proposta não é criar uma frase de propósito de forma rápida ou racional, mas ajudar o usuário a identificar padrões profundos de contribuição, realização e impacto humano presentes em suas histórias de vida.
 
-O "Porquê" não é inventado racionalmente. Ele emerge de histórias reais, emoções recorrentes e padrões de contribuição ao longo da vida.
+O método utiliza investigação narrativa, escuta ativa e exploração de memórias emocionalmente significativas para revelar:
+- valores recorrentes;
+- formas naturais de contribuição;
+- momentos de energia e realização;
+- padrões de impacto nas outras pessoas.
 
-O formato preferencial do "Porquê":
+A partir desses padrões, o usuário constrói gradualmente uma hipótese do seu "Porquê" — entendido como a causa, crença ou contribuição que dá significado ao que faz.
 
-> "__________, de modo que __________."
+O processo é inspirado na lógica do Golden Circle de Simon Sinek:
+
+- **PORQUÊ** → a crença ou causa que move a pessoa
+- **COMO** → os valores e comportamentos que tornam essa contribuição única
+- **O QUÊ** → as ações, projetos e resultados concretos
+
+Mas o foco principal deste agente está na descoberta do "Porquê" através de histórias reais e padrões humanos recorrentes.
 
 ---
 
