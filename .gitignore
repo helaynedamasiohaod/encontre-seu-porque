@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Diretório do aiox-core (framework, não faz parte da skill)
+aiox-core v 5.0.7/
